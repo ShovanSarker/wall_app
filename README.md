@@ -58,6 +58,12 @@ python manage.py runserver 0.0.0.0:8000
 ```
 these commands will update the database structure(if necessary) and run the service on [localhost](http://localhost:8000) on 8000 port.
 
+## Test
+To test the application, go inside the project directory and check if the ```manage.py``` file is there. If it is there run the following code:
+
+```bash
+python manage.py test
+```
 ### WIKI
 More details about the API is documented at [this wiki](https://github.com/ShovanSarker/wall_app/wiki)
 

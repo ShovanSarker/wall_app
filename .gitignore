@@ -73,3 +73,9 @@ fabric.properties
 
 # Django migration files
 wall/migrations/
+
+# All xml config files
+*.xml
+
+# All config files for ide
+\.idea/

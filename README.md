@@ -59,7 +59,7 @@ python manage.py runserver 0.0.0.0:8000
 these commands will update the database structure(if necessary) and run the service on [localhost](http://localhost:8000) on 8000 port.
 
 ### WIKI
-More details is available at [this wiki](https://github.com/ShovanSarker/wall_app/wiki)
+More details about the API is documented at [this wiki](https://github.com/ShovanSarker/wall_app/wiki)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
